@@ -1,0 +1,17 @@
+Package: Cinderella
+Type: Package
+Title: Cinderella
+Version: 0.0.8
+Date: 2022-04-01
+Authors@R: c(person("Michael", "Thrun", email= "m.thrun@gmx.net",role=c("aut","cre"), comment = c(ORCID = "0000-0001-9542-5543")),person("Florian", "Lerch",role=c("ctb")))
+Maintainer: Michael Thrun <m.thrun@gmx.net>
+Description: Cinderella quantifes of peripheral blood contamination in bone marrow samples of the H1 panel.
+License: CC BY-NC-SA 4.0
+Imports: 
+Suggests: parallel, caret, plyr, DataVisualizations, stringr, flowCore, brnn, gbm, earth, elasticnet, stringi
+LinkingTo: 
+Depends: R (>= 3.5)
+LazyLoad: yes
+LazyData: TRUE
+URL: https://www.deepbionics.orh
+Encoding: UTF-8
