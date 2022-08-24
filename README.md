@@ -37,7 +37,7 @@ for(i in 1:length(Suggested)) {
 
 ### Quantifeication of peripheral blood contamination in bone marrow samples
 The package Cinderella uses specific information of *.lmd files that can be read in with the ReadAll_LMD_files function.
-In general, raw data of the H1 Panel is expected. The data is compensated within this package using information stored in the *.lmd files and then normalized. The populations are then defined by the ALPODS XAI [2]. Prediction of peripheral blood contamination in bone marrow samples is performed as described in [1].
+In general, raw data of the H1 Panel is expected. The data is compensated within this package using information stored in the *.lmd files and then normalized. The populations are then defined by the ALPODS XAI [2]. Prediction of peripheral blood contamination in bone marrow samples is performed as described in [1] with data accessible in [3]
 
 ```R
 library(Cinderella)
@@ -80,4 +80,4 @@ PopsMatVerification,Operator = min)
 ## References
 1. Ultsch, A., Hoffman, J., Röhnert, M., Von Bonin, M., Oelschlägel, U., Brendel, C., & Thrun, M. C.: An explainable AI system for the diagnosis of high-dimensional biomedical data, in revision, 2022.
 2. Hoffman, J., Thrun, M. C., Röhnert, M., Von Bonin, M., Oelschlägel, U., Neubauer, A., Ultsch, A., Brendel, C.: Identification of critical hemodilution by artificial intelligence in bone marrow assessed for minimal residual disease analysis in acute myeloid leukemia: the Cinderella method, Cytometry: Part A, in revision, 2022.
-
+3. Thrun, M. C., Hoffman, J., Röhnert, M., Von Bonin, M., Oelschlägel, U., Brendel, C., & Ultsch, A.: Flow Cytometry datasets consisting of peripheral blood and bone marrow samples for the evaluation of explainable artificial intelligence methods, Data in Brief, Vol. 43, pp. 108382, DOI: 10.1016/j.dib.2022.108382, 2022. 
