@@ -71,7 +71,6 @@ PopsMatVerification,Operator = min)
 
 ## Additional information
 
-| Authors website  | http://www.deepbionics.org/           |
 | ---------------- |--------------------------------------:|
 | License          | CC BY-NC-SA 4.0                       |
 | Dependencies     | R (>= 3.5.0)                          |
