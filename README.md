@@ -77,6 +77,6 @@ PopsMatVerification,Operator = min)
 
 
 ## References
-1. Ultsch, A., Hoffman, J., Röhnert, M., Von Bonin, M., Oelschlägel, U., Brendel, C., & Thrun, M. C.: An explainable AI system for the diagnosis of high-dimensional biomedical data, in revision, 2022.
-2. Hoffman, J., Thrun, M. C., Röhnert, M., Von Bonin, M., Oelschlägel, U., Neubauer, A., Ultsch, A., Brendel, C.: Identification of critical hemodilution by artificial intelligence in bone marrow assessed for minimal residual disease analysis in acute myeloid leukemia: the Cinderella method, Cytometry: Part A, in 2nd revision, 2022.
+1. Hoffman, J., Thrun, M. C., Röhnert, M., Von Bonin, M., Oelschlägel, U., Neubauer, A., Ultsch, A., Brendel, C.: Identification of critical hemodilution by artificial intelligence in bone marrow assessed for minimal residual disease analysis in acute myeloid leukemia: the Cinderella method, Cytometry: Part A, in 2nd revision, 2022.
+2. Ultsch, A., Hoffman, J., Röhnert, M., Von Bonin, M., Oelschlägel, U., Brendel, C., & Thrun, M. C.: An explainable AI system for the diagnosis of high-dimensional biomedical data, in revision, 2022.
 3. Thrun, M. C., Hoffman, J., Röhnert, M., Von Bonin, M., Oelschlägel, U., Brendel, C., & Ultsch, A.: Flow Cytometry datasets consisting of peripheral blood and bone marrow samples for the evaluation of explainable artificial intelligence methods, Data in Brief, Vol. 43, pp. 108382, DOI: 10.1016/j.dib.2022.108382, 2022. 
