@@ -71,9 +71,9 @@ PopsMatVerification,Operator = min)
 
 ## Additional information
 
-| ---------------- |--------------------------------------:|
-| License          | CC BY-NC-SA 4.0                       |
-| Dependencies     | R (>= 3.5.0)                          |
+ License: CC BY-NC-SA 4.0
+ 
+ Dependencies: R (>= 3.5.0)          
 
 
 ## References
